@@ -14,7 +14,7 @@ public class Exception {
 		String s3;
 
 		
-		public void example() {
+		public void example(){
 
 			String s2="hello";
 			String s3="hello2";
